@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomGridView.cs](./CS/CustomPrintPreview/Grid/CustomGridView.cs) (VB: [CustomGridView.vb](./VB/CustomPrintPreview/Grid/CustomGridView.vb))
+* **[MainForm.cs](./CS/CustomPrintPreview/MainForm.cs) (VB: [MainForm.vb](./VB/CustomPrintPreview/MainForm.vb))**
+<!-- default file list end -->
 # How to provide a custom datasource for the print preview Form options dialog
 
 
